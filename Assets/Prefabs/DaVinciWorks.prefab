@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 1650469146347402087, guid: 90528d739b8dffb4a90cce14daf67f25, type: 3}
+  m_Sprite: {fileID: -7736819748990741686, guid: 5db6837d6f7164d4b8eb455e7797441e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -128,7 +128,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 26.666666, y: 17.8}
+    oldSize: {x: 13.1875, y: 18.75}
     newSize: {x: 1.92, y: 2.63}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Penetent Magndalene
+  m_text: Codex Forster
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -549,7 +549,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Vitruvian Man
+  m_text: The Creation of Adam
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -725,7 +725,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Florence Cathederal
+  m_text: Galilean Telescope
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -878,7 +878,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 2681403889622792548, guid: 55550e6f50c37154aae00ead39fffb07, type: 3}
+  m_Sprite: {fileID: 4346213271928719100, guid: ffc9374e34d72ae45b6f08540734ffe2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -919,7 +919,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -927,7 +927,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 14.705882, y: 20}
+    oldSize: {x: 18.555555, y: 8.388889}
     newSize: {x: 2.5, y: 3.43}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1029,7 +1029,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: -4549642602322489014, guid: 0daafacc700375b4fa7e1e6bd289dc3b, type: 3}
+  m_Sprite: {fileID: 6990884199764570204, guid: ec62c81f4c7909b4197c7ab26f685557, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1078,7 +1078,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 17.956522, y: 23.913044}
+    oldSize: {x: 16, y: 20.3}
     newSize: {x: 1.92, y: 2.63}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1237,7 +1237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fcf4c1551caea249a5d59fcd90482a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movespeed: 11
+  movespeed: 10
 --- !u!82 &1033629990346948
 AudioSource:
   m_ObjectHideFlags: 0
