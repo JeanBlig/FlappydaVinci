@@ -1,5 +1,7 @@
 # FlappydaVinci
 My first Unity game! I decided to follow a YouTube tutorial to get started. The Flappy Bird spin-off I created is a Leonardo da Vinci–inspired 2D animation game. I spent two weeks developing a feature that requires players to recognize and know da Vinci’s works in order to progress through the game (picking obstacle). What I have learned:
+<img width="601" height="338" alt="image" src="https://github.com/user-attachments/assets/3129939d-2462-448a-bc9f-d28136e84ebe" />
+
 
 ## Logic 
 It became evidently clear that creating an object almost always requires a seperate "object manager". The object manager is the linking node between your object and other objects. Linking objects directly creates problems like loops and logic errors. It reminds me a lot of network segmentation.
