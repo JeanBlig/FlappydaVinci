@@ -3,7 +3,6 @@ using TMPro;
 
 public class DoYouKnowScript : MonoBehaviour
 {
-
     public GameObject Works; // parent
     public GameObject Pillar;
     PillarMove DestroyPillar;

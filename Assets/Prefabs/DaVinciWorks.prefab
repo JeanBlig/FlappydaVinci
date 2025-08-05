@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: -7736819748990741686, guid: 5db6837d6f7164d4b8eb455e7797441e, type: 3}
+  m_Sprite: {fileID: 1650469146347402087, guid: 90528d739b8dffb4a90cce14daf67f25, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -128,7 +128,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 13.1875, y: 18.75}
+    oldSize: {x: 26.666666, y: 17.8}
     newSize: {x: 1.92, y: 2.63}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Codex Forster
+  m_text: The School of Athens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -549,7 +549,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The Creation of Adam
+  m_text: Mona Lisa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -725,7 +725,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Galilean Telescope
+  m_text: Florence Cathederal
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -878,7 +878,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 4346213271928719100, guid: ffc9374e34d72ae45b6f08540734ffe2, type: 3}
+  m_Sprite: {fileID: -1081787769820453926, guid: 28f49d679f4e6ea45aebfdce07d64b34, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -927,7 +927,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 18.555555, y: 8.388889}
+    oldSize: {x: 12.5, y: 18.65}
     newSize: {x: 2.5, y: 3.43}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1029,7 +1029,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 6990884199764570204, guid: ec62c81f4c7909b4197c7ab26f685557, type: 3}
+  m_Sprite: {fileID: -714655812665524580, guid: 694573111edbc7c49bbe49c20b8dcafe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1078,7 +1078,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 16, y: 20.3}
+    oldSize: {x: 29.38603, y: 22.800001}
     newSize: {x: 1.92, y: 2.63}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
